@@ -10,10 +10,10 @@ subcollection: servicenow
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Connect
+# Connecting to ServiceNow
 {: #connect}
 
-This is the connect page
+This is the connect page ... EVELYN
 
 
 
