@@ -3,7 +3,6 @@ toc:
     subcollection: servicenow
     service-name: prof-svc-snow-mgd-servs
     audience: service
-    content-type: product
     href: /docs/servicenow
     path: servicenow
     label: ServiceNow on IBM Cloud
