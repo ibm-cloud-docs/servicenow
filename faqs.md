@@ -10,10 +10,10 @@ subcollection: servicenow
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Reference
-{: #reference}
+# FAQs
+{: #faqs}
 
-This is the reference page
+This is the FAQs page
 
 
 

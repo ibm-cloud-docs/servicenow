@@ -19,10 +19,8 @@ toc:
         id: howto
         topics:
         - provisioning.md
-    - navgroup:
-        id: reference
-        topics:
-        - reference.md
+        - connect.md
+        - access.md
     - navgroup:
         id: help
         topics:
