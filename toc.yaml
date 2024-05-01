@@ -22,9 +22,7 @@ toc:
     - navgroup:
         id: reference
         topics:
-        - link:
-            label: ServiceNow Documentation
-            href: https://docs.servicenow.com
+        - reference.md
     - navgroup:
         id: help
         topics:
