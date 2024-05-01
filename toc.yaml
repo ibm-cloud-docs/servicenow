@@ -15,4 +15,21 @@ toc:
         id: learn
         topics:
         - index.md
+    - navgroup:
+        id: howto
+        topics:
+        - provisioning.md
+    - navgroup:
+        id: reference
+        topics:
+        - link:
+            label: ServiceNow Documentation
+             href: https://docs.servicenow.com
+    - navgroup:
+        id: help
+        topics:
+        - support.md
+        - faqs.md
+
+
 
