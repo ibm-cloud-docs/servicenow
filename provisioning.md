@@ -27,7 +27,7 @@ Provision from the console by specifying the following parameters:
   | Critical Plan     | X-Small, Small, Medium, Large, X-Large |
   | Non Critical Plan | X-Small, Small, Medium, Large          |
 
-- **Additional Storage**: Additional storage to provision for your deployment. Value must be greater than or equal to 0 and specified in GB. Add up to a maxium of 50% of the base plan size volume.
+- **Additional Storage (GB)**: Additional storage to provision for your deployment. Value must be specified in GB. Value must be greater than or equal to 0, and less than 50% of the base plan size volume.
 
   | Plan Size | Max Additional Storage |
   | --------- | ---------------------- |
@@ -37,7 +37,7 @@ Provision from the console by specifying the following parameters:
   | Large     | 7 TB = 7000 GB         |
   | X-Large   | 8 TB = 8000 GB         |
 
-- **On Demand Services**: Services that can be provided upon request along with the deployment. These services include: a ServiceNow plugin activation, the Installation of one ServiceNow store application, a Capacity Increase (limited to one additional node), Instance cloning, Storage upgrade, On-demand database backup, and On-demand database restoration.
-- **Additional Comments**: Provide any additional comment or information you would like shared with the provisioning team.
+- **On Demand Services**: Services that can be provided upon request along with the deployment. These services include: a ServiceNow plugin activation, the Installation of one ServiceNow store application, a Capacity Increase (limited to one additional node), Instance cloning, Storage upgrade, On-demand database backup, and On-demand database restoration. Select as many as desired.
+- **Additional Comments**: Provide any additional details or comments you would like shared with the provisioning team.
 
 After you select the appropriate settings, click **Create** to start the provisoning process.
