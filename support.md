@@ -9,10 +9,12 @@ subcollection: servicenow
 {{site.data.keyword.attribute-definition-list}}
 
 # Getting Support
-
 {: #getting-support}
 
-If you experience an issue or have questions when using ServiceNow on IBM Cloud, you can use the following resources before you open a support case.
+If you experience an issue or have questions when using ServiceNow on IBM Cloud, reference this guide. 
+{: shortdesc}
+
+Leverage the following resources before opening a support case.
 
 - Review the [FAQs](https://test.cloud.ibm.com/docs/servicenow?topic=servicenow-faqs) in the documentation.
 - Check the status of the {{site.data.keyword.Bluemix_notm}} platform and resources by going to the [Status page](https://cloud.ibm.com/status){: external}.

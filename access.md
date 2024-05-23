@@ -9,10 +9,12 @@ subcollection: servicenow
 {{site.data.keyword.attribute-definition-list}}
 
 # Managing Users, Roles, and Privileges
-
 {: #access}
 
-Access to ServiceNow on IBM Cloud instances for users is controlled by the Cloud Identity and Access Management (IAM). Every user that accesses the `ServiceNow on IBM Cloud` service in your account must be assigned an access policy with an IAM role. Review the following roles, actions, and more to help determine the best way to assign access to `ServiceNow on IBM Cloud`.
+Access to ServiceNow on IBM Cloud instances for users is controlled by the Cloud Identity and Access Management (IAM). 
+{: shortdesc}
+
+Every user that accesses the `ServiceNow on IBM Cloud` service in your account must be assigned an access policy with an IAM role. Review the following roles, actions, and more to help determine the best way to assign access to `ServiceNow on IBM Cloud`.
 
 The access policy that you assign users in your account determines what actions a user can perform within the context of the service or specific instance that you select. The allowable actions are customized and defined by the `ServiceNow on IBM Cloud` service as operations that you are allowed to perform on the service. Each action is mapped to an IAM platform or service role that you can assign to a user.
 

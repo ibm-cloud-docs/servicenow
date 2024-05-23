@@ -12,6 +12,7 @@ subcollection: servicenow
 {: #faqs}
 
 Find answers to frequently-asked questions and quick fixes for common problems.
+{: shortdesc}
 
 ## FAQs about ServiceNow on IBM Cloud 
 

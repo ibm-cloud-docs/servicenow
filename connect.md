@@ -9,10 +9,10 @@ subcollection: servicenow
 {{site.data.keyword.attribute-definition-list}}
 
 # Connecting to ServiceNow
-
 {: #connect}
 
 Once your ServiceNow on IBM Cloud deployment is active, you may connect to ServiceNow.
+{: shortdesc}
 
 ## Connecting to ServiceNow in the UI
 

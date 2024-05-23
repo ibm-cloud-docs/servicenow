@@ -9,8 +9,10 @@ subcollection: servicenow
 {{site.data.keyword.attribute-definition-list}}
 
 # Provisioning
+{: #provisioning}
 
 Provision a ServiceNow on IBM Cloud deployment through the [catalog](https://test.cloud.ibm.com/catalog/services/servicenow-on-ibm-cloud).
+{: shortdesc}
 
 ## Provisoning through the IBM Cloud console
 
