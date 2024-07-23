@@ -56,13 +56,13 @@ Provision from the console by specifying the following parameters:
 
 - **Additional Storage (GB)**: Additional storage to provision for your deployment. Value must be specified in GB. Value must be greater than or equal to 0, and less than 50% of the base plan size volume.
 
-  | Plan Size | Max Additional Storage |
-  | --------- | ---------------------- |
-  | X-Small   | 1 TB = 1000 GB         |
-  | Small     | 2 TB = 2000 GB         |
-  | Medium    | 4 TB = 4000 GB         |
-  | Large     | 7 TB = 7000 GB         |
-  | X-Large   | 8 TB = 8000 GB         |
+  | Plan Size | Max Additional Storage (TB) | Max Additional Storage (GB) |
+  | --------- | --------------------------- | --------------------------- |
+  | X-Small   | 0.5 TB                      | 500 GB                      |
+  | Small     | 1 TB                        | 1000 GB                     |
+  | Medium    | 2 TB                        | 2000 GB                     |
+  | Large     | 3.5 TB                      | 3500 GB                     |
+  | X-Large   | 4 TB                        | 4000 GB                     |
 
 - **On Demand Services**: Services that can be provided upon request along with the deployment. These services include: a ServiceNow plugin activation, the Installation of one ServiceNow store application, a Capacity Increase (limited to one additional node), Instance cloning, Storage upgrade, On-demand database backup, and On-demand database restoration. Select as many as desired.
 - **Additional Comments**: Provide any additional details or comments you would like shared with the provisioning team.
