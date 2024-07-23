@@ -38,7 +38,7 @@ Review the following tables that outline what types of tasks each role allows wh
 
 {: row-headers}
 {: class="simple-tab-table"}
-{: caption="Table 2. IAM ServiceNow on IBM Cloud Platform Roles" caption-side="bottom"}
+{: caption="Table 1. IAM ServiceNow on IBM Cloud Platform Roles" caption-side="bottom"}
 {: #iamrolesplatformservicenowonibmcloud}
 {: tab-title="ServiceNow on IBM Cloud Platform roles"}
 {: tab-group="IAMSNOW"}
@@ -51,7 +51,7 @@ Review the following tables that outline what types of tasks each role allows wh
 
 {: row-headers}
 {: class="simple-tab-table"}
-{: caption="Table 2. ServiceNow on IBM Cloud Service Access Roles" caption-side="bottom"}
+{: caption="Table 1. ServiceNow on IBM Cloud Service Access Roles" caption-side="bottom"}
 {: #iamrolesplatformservicenowonibmcloud}
 {: tab-title="ServiceNow on IBM Cloud Service roles"}
 {: tab-group="IAMSNOW"}
