@@ -1,0 +1,26 @@
+toc:
+  properties:
+    subcollection: servicenow
+    service-name: prof-svc-snow-mgd-servs
+    category: platform_services
+    audience: service
+    href: /docs/servicenow
+    console-page: /catalog/services/servicenow-on-ibm-cloud
+    path: servicenow
+    label: ServiceNow on IBM Cloud
+  entries:
+    - navgroup:
+        id: learn
+        topics:
+          - index.md
+    - navgroup:
+        id: howto
+        topics:
+          - provisioning.md
+          - connect.md
+          - access.md
+    - navgroup:
+        id: help
+        topics:
+          - support.md
+          - faqs.md
