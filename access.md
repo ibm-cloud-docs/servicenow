@@ -35,7 +35,6 @@ Review the following tables that outline what types of tasks each role allows wh
 | Operator      | You can perform platform actions that are required to configure and operate service instances, such as viewing a service dashboard.   |
 | Editor        | You can perform all platform actions except for managing the account and assigning access policies.                                   |
 | Administrator | You can perform all platform actions based on the resource this role is assigned, including assigning access policies to other users. |
-
 {: row-headers}
 {: class="simple-tab-table"}
 {: caption="Table 1. IAM ServiceNow on IBM Cloud Platform Roles" caption-side="bottom"}
@@ -48,7 +47,6 @@ Review the following tables that outline what types of tasks each role allows wh
 | Reader       | You can perform read-only actions within a service, such as viewing service-specific resources.                                                                                         |
 | Writer       | You have permissions beyond the reader role, including creating and editing service-specific resources.                                                                                 |
 | Manager      | You have permissions beyond the writer role that allows you to complete privileged actions, as defined by the service. In addition, you can create and edit service-specific resources. |
-
 {: row-headers}
 {: class="simple-tab-table"}
 {: caption="Table 1. ServiceNow on IBM Cloud Service Access Roles" caption-side="bottom"}
