@@ -35,7 +35,7 @@ There are two pricing plans available to choose from:
 - **Resource group**: If you are organizing your services into [resource groups](https://cloud.ibm.com/docs/account?topic=account-account_setup), specify the resource group in this field. Otherwise, you can leave it as Default. For more information, see [Managing resource groups](https://cloud.ibm.com/docs/account?topic=account-rgs).
 - **Plan Size**: The size of the deployment. Available sizes will differ based on the plan selected for the deployment.
 
-    | Critical Plan Size | vCPUs for DB Server | Estimated Number of Users per Hour | Estimated Peak Transactinos per Minute | Standard Storage             | Max Storage |
+    | Critical Plan Size | vCPUs for DB Server | Estimated Number of Users per Hour | Estimated Peak Transactions per Minute | Standard Storage             | Max Storage |
     | ------------------ | ------------------- | ---------------------------------- | -------------------------------------- | ---------------------------- | ----------- |
     | X-Small            | 8                   | 200                                | 480                                    | 1 TB of 5 IOPs Block Storage | 1.5 TB      |
     | Small              | 16                  | 500                                | 960                                    | 2 TB of 5 IOPs Block Storage | 3 TB        |
@@ -49,7 +49,7 @@ There are two pricing plans available to choose from:
     {: tab-title="ServiceNow on IBM Cloud Critical Plans"}
     {: tab-group="PLANSNOW"}
 
-    | Non-Critical Plan Size | vCPUs for DB Server | Estimated Number of Users per Hour | Estimated Peak Transactinos per Minute | Standard Storage             | Max Storage |
+    | Non-Critical Plan Size | vCPUs for DB Server | Estimated Number of Users per Hour | Estimated Peak Transactions per Minute | Standard Storage             | Max Storage |
     | ---------------------- | ------------------- | ---------------------------------- | -------------------------------------- | ---------------------------- | ----------- |
     | X-Small                | 8                   | 200                                | 240                                    | 1 TB of 5 IOPs Block Storage | 1.5 TB      |
     | Small                  | 16                  | 500                                | 480                                    | 2 TB of 5 IOPs Block Storage | 3 TB        |
