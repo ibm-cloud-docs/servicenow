@@ -11,13 +11,22 @@ subcollection: servicenow
 # Provisioning
 {: #provisioning}
 
-Provision a ServiceNow on IBM Cloud deployment through the [catalog](https://test.cloud.ibm.com/catalog/services/servicenow-on-ibm-cloud).
+Provision a new ServiceNow instance by using the [ServiceNow on IBM Cloud Catalog Tile](https://test.cloud.ibm.com/catalog/services/servicenow-on-ibm-cloud).
+
 {: shortdesc}
 
-## Provisoning through the IBM Cloud console
+## Tailoring the ServiceNow instance
 {: #provisioning-with-console}
 
-Provision from the console by specifying the following parameters:
+After clicking the [ServiceNow on IBM Cloud Catalog Tile](https://test.cloud.ibm.com/catalog/services/servicenow-on-ibm-cloud) you can specify the following:
+
+### Pricing Plan
+{: #pricing-plan}
+
+There are two pricing plans available to choose from:
+
+- **High Availability**: Highly available instances of ServiceNow are best used for mission critical production usage. In addition, Medium, Large and Extra-Large *Plan Size* instances come with performance tuned Read Replicas to ensure the best query and report performance.
+- **Non-High Availability**: A ServiceNow instance best used for Development, Testing or Staging of ServiceNow.
 
 ### Resource configuration
 {: #resource-configuration}
