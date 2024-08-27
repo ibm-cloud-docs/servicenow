@@ -25,9 +25,9 @@ IBM hosts and manages ServiceNow as a Cloud Service on IBM Cloud. IBM Cloud impl
 ### I provisioned a ServiceNow on IBM Cloud instance. The status has been `In Progress` for awhile now.
 {: #in-progress-status}
 
-Typically, ServiceNow on IBM Cloud instances will be provisioned within 7 days. If after 7 days, the instance is still not active, reach out to support. See [Getting Support](https://test.cloud.ibm.com/docs/servicenow?topic=servicenow-getting-support) for more information.
+Typically, ServiceNow on IBM Cloud instances will be provisioned within 7 days. If after 7 days, the instance is still not active, reach out to support. See [Getting Support](https://cloud.ibm.com/docs/servicenow?topic=servicenow-getting-support) for more information.
 
 ### I provisioned a ServiceNow on IBM Cloud instance. How do I log in?
 {: #login}
 
-Once your ServiceNow on IBM Cloud instance is active, you can log in provided the initial credentials on the `Manage` page of your deployment. See [Connecting to ServiceNow](https://test.cloud.ibm.com/docs/servicenow?topic=servicenow-connecting-to-servicenow) for more information.
+Once your ServiceNow on IBM Cloud instance is active, you can log in provided the initial credentials on the `Manage` page of your deployment. See [Connecting to ServiceNow](https://cloud.ibm.com/docs/servicenow?topic=servicenow-connecting-to-servicenow) for more information.

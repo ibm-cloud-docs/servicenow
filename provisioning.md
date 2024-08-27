@@ -11,13 +11,13 @@ subcollection: servicenow
 # Provisioning
 {: #provisioning}
 
-Provision a new ServiceNow instance by using the [ServiceNow on IBM Cloud Catalog Tile](https://test.cloud.ibm.com/catalog/services/servicenow-on-ibm-cloud).
+Provision a new ServiceNow instance by using the [ServiceNow on IBM Cloud Catalog Tile](https://cloud.ibm.com/catalog/services/servicenow-on-ibm-cloud).
 {: shortdesc}
 
 ## Tailoring the ServiceNow instance
 {: #provisioning-with-console}
 
-After clicking the [ServiceNow on IBM Cloud Catalog Tile](https://test.cloud.ibm.com/catalog/services/servicenow-on-ibm-cloud) you can specify the following:
+After clicking the [ServiceNow on IBM Cloud Catalog Tile](https://cloud.ibm.com/catalog/services/servicenow-on-ibm-cloud) you can specify the following:
 
 ### Pricing Plan
 {: #pricing-plan}
