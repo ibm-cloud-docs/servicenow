@@ -15,6 +15,7 @@ Once your ServiceNow on IBM Cloud deployment is active, you may connect to Servi
 {: shortdesc}
 
 ## Connecting to ServiceNow in the UI
+{: #connect-with-cli}
 
 Follow these steps to connect to your ServiceNow on IBM Cloud deployment:
 
